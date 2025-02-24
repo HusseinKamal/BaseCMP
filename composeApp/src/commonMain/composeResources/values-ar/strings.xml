@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="search_hint">ابحث...</string>
+    <string name="close_hint">مسح البحث</string>
+    <string name="search_results">نتائج البحث</string>
+    <string name="favorites">المفضلة</string>
+    <string name="no_search_results">آسف، لا توجد أي كتب لمُطابقة استعلام البحث الخاص بك.</string>
+    <string name="no_favorite_books">لا توجد كتب مُفضلة بعد.</string>
+    <string name="book_cover">غلاف الكتاب</string>
+    <string name="rating">التقييم</string>
+    <string name="pages">الصفحات</string>
+    <string name="languages">اللغات</string>
+    <string name="synopsis">ملخص</string>
+    <string name="go_back">العودة</string>
+    <string name="mark_as_favorite">وضع ككتاب مُفضل</string>
+    <string name="remove_from_favorites">إزالة من المفضلة</string>
+    <string name="description_unavailable">الوصف غير متوفر.</string>
+    <string name="error_disk_full">آسف، يبدو أن قرصك ممتلئ.</string>
+    <string name="error_unknown">آسف، حدث خطأ ما.</string>
+    <string name="error_request_timeout">انتهت مهلة الطلب.</string>
+    <string name="error_no_internet">تعذر الوصول إلى الخادم، يرجى التحقق من اتصال الإنترنت الخاص بك.</string>
+    <string name="error_too_many_requests">يبدو أن حصة الطلبات الخاصة بك تجاوزت الحد.</string>
+    <string name="error_serialization">تعذر تحليل البيانات.</string>
+</resources>
