@@ -20,4 +20,5 @@ It has many  libraries
 2. Ktor
 3. RoomDB
 4. Datastore
-5. MVI design pattern 
+5. MVI design pattern
+6. Localization for multiple languages (Enlgish - Arabic)
