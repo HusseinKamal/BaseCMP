@@ -12,3 +12,12 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+# This is Base App for any Kotlin CMP 
+
+It has many  libraries 
+1. Koin
+2. Ktor
+3. RoomDB
+4. Datastore
+5. MVI design pattern 
